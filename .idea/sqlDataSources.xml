@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="26b8f569-630d-4b60-8716-cede37cbd57a" name="wifi_db Mapping">
+      <data-sources db="585e3834-6d67-4a16-afd9-b2415b7cd94a" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
